@@ -4,7 +4,7 @@
 	* I changed text file to csv file to finish my project. so, the file is in csv format.  
 
 To install the requirements 
-```pip install -r requirement.txt>>```
+```pip install -r requirement.txt```
 
 To start the dictionary run ```main.py```
 
