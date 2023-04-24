@@ -5,11 +5,11 @@ I. ".Folder" contains image of my dictionary icon and file of words.
 
 The dictionary looks like this: 
 
-![General!] (chinese.PNG)
+![General!] (images/chinese.PNG)
 
-![alt text] (Design.PNG)
+![Details] (images/Design.PNG)
 
-![alt text] (draw.png)
+![Distribution] (images/draw.png)
  
 		THANK YOU! 
 
