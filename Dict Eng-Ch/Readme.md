@@ -5,7 +5,7 @@ I. ".Folder" contains image of my dictionary icon and file of words.
 
 The dictionary looks like this: 
 
-![General!] (images/chinese.PNG)
+(images/chinese.PNG)
 
 ![Details] (images/Design.PNG)
 
