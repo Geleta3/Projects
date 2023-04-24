@@ -1,3 +1,5 @@
+# English - Chinese Dictionary
+
 --------------------------------------------------
 
 ".Folder" contains image of my dictionary icon and the datasets. 
